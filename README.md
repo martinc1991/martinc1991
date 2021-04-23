@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello stranger, welcome to my GitHub profile 🪐
 
-<!--
-**martinc1991/martinc1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Martin**, I'm a Web Full-Stack Developer and a Software Developer. I really love coding. Like really really. but I enjoy other stuff too: **music, bikes and cats** to name a few.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a **personal project** to help front-end developers show their skills.
+- 🌱 I’m currently learning **ElectronJS.**
+- 📫 How to reach me: by <a href="mailto:martincatala14@gmail.com">E-mail</a> or checkout my <a href="https://www.linkedin.com/in/mcatala-dvlpr/">LinkedIn</a> profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🔮 Feel free to look at the repositories below! 🔮
+
+<!-- **martinc1991/martinc1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- Here are some ideas to get you started:
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
