@@ -3,7 +3,7 @@
 My name is **Martin**, I'm a Web Full-Stack Developer and a Software Developer. I really love coding. Like really really. but I enjoy other stuff too: **music, bikes and cats** to name a few.
 
 - 🔭 I’m currently working for a company building a React-Native App for big soccer team of Argentina! ⚽
-- 🌱 I’m currently learning **RxJS.**
+- 🌱 I’m currently learning **RxJS.** 🐠
 - 📫 How to reach me: by <a href="mailto:martincatala14@gmail.com">E-mail</a> or checkout my <a href="https://www.linkedin.com/in/mcatala-dvlpr/">LinkedIn</a> profile.
 
 🔮 Feel free to look at the repositories below! 🔮
