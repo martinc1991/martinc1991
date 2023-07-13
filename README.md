@@ -1,19 +1,18 @@
 ### Hello stranger, welcome to my GitHub profile 🪐
 
-My name is **Martin**, I'm a Web Full-Stack Developer and a Software Developer. I really love coding. Like really really. but I enjoy other stuff too: **music, bikes and cats** to name a few.
+Hi, my name is **Martin**. I'm a full-stack web developer from Argentina, and I've been coding since 2019. I mostly work on web-related projects 🌐, but I also have experience with mobile 📱 and desktop app development 💻.
 
-- 🔭 I’m currently working for a company building a React-Native App for big soccer team of Argentina! ⚽
-- 🌱 I’m currently learning **RxJS.** 🐠
-- 📫 How to reach me: by <a href="mailto:martincatala14@gmail.com">E-mail</a> or checkout my <a href="https://www.linkedin.com/in/mcatala-dvlpr/">LinkedIn</a> profile.
+I maintain a blog where **I write about topics such as React, TypeScript, and other web-related stuff**. Feel free to check it out at [this link](https://bit90s-blog.vercel.app/).
+
+Here are some notable projects that I've worked on:
+
+- A **React-Native mobile app** for Club Atletico Belgrano, a prominent soccer team in Argentina ⚽.  You can download it from [Google Play Store](https://play.google.com/store/apps/details?id=com.sooft.belgrano) or the [Apple App Store](https://apps.apple.com/ar/app/app-oficial-de-c-a-belgrano/id1577599858).
+
+- A **web platform made with React** that facilitates class management, attendance tracking, homework assignments, and the management of institutional assets such as classrooms, teachers, and subjects. You can learn more about this project [here](https://aula.educabot.com/).
+
+ How to reach me:
+
+- Send me and <a href="mailto:martincatala14@gmail.com">e-mail</a> 📫
+- Checkout my <a href="https://www.linkedin.com/in/mcatala-dvlpr/">LinkedIn</a> profile 💼
 
 🔮 Feel free to look at the repositories below! 🔮
-
-<!-- **martinc1991/martinc1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
