@@ -19,9 +19,9 @@ Here are some notable projects that I've worked on:
 
 ### What am I doing nowadays?
 
-- 🔭 I’m currently working on [a Pokemon Teambuilder](https://github.com/martinc1991/pokemon-gen3-teambuilder)
+- 🔭 I’m currently working on [restauarant menus app]([https://github.com/martinc1991/pokemon-gen3-teambuilder](https://github.com/martinc1991/nest-api))
 
-- 🌱 I’m currently learning **Python, NestJs, CI/CD, and monorepo architechture**
+- 🌱 I’m currently learning **NestJs, CI/CD, and monorepo architechture**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
